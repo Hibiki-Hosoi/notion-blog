@@ -15,7 +15,7 @@ export default () => (
         width="250"
         alt="Vercel + Notion"
       />
-      <h1>My Notion Blog</h1>
+      <h1>Hibiki's Blog</h1>
       <h2>
         Blazing Fast Notion Blog with Next.js'{' '}
         <ExtLink
@@ -30,6 +30,12 @@ export default () => (
       <Features />
 
       <div className="explanation">
+
+        <p>
+          これは細井響のブログだよ。
+
+
+        </p>
         <p>
           This is a statically generated{' '}
           <ExtLink href="https://nextjs.org">Next.js</ExtLink> site with a{' '}
